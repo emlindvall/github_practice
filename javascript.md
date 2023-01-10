@@ -9,3 +9,9 @@
 - Jellyfish
 - Tuna
 - Seabass
+
+# Mammals 
+
+- Platypus
+- Coyote
+- Gorilla
